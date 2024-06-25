@@ -1,0 +1,10 @@
+[package]
+name = "phonetics-html"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = {workspace = true }
+rust_tokenizers = {workspace = true}
+serde = {workspace = true}
+serde-pickle = {workspace = true}

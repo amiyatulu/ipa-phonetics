@@ -1,0 +1,10 @@
+Now come to the next rule,
+Spaces are not allowed in variable names but underscores can be used to separate words in variable names. 
+For example, greeting_message works, but greeting message will cause errors.
+
+Next rule is,
+Avoid using Python keywords and functions names as variables names; that is, do not use words that Python has reserved for the particular programmatic purpose, such as the word print.
+
+Finally a guideline, it will not give an error but will make programs easier to read and understand. 
+Variable names should be short but descriptive. For example, the name is better than n, 
+student_name is better than s_n, and name_length is better than length_of_persons_name. See this variable is too long.
